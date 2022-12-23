@@ -8,4 +8,4 @@ https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9435f286c26b12a87f0ea4ee4a
 ```
 https://p16-va.tiktokcdn.com/tos-maliva-avt-0068/9435f286c26b12a87f0ea4ee4adf07f9~c5_1080x1080.webp
 ```
-Check **main.py** file for demo.
+Check **main.py** or **main.go** file for demo.
